@@ -1,6 +1,7 @@
 # VIBROWATCH - ARTHORFINN and AMORPHOUSNEON
 Model that uses a piezoelectric transducer to detect the resonance frequency of metal plates, helping in detecting anomalies. Uses STM32-BLUE-PILL.
 
+## ***BTW SWITCH BRANCHES TO ACCESS BETWEEN RUST AND NON-RUST VERSIONS***
 # Problem Statement:
 Most buildings and structures, along with the bodies of aircraft, rely on
 scheduled maintenance. This kind of inspection involves manual labor

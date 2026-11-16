@@ -1,0 +1,8 @@
+[package]
+name = "vibrowatch_gui"
+version = "2.4.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27.2"
+serialport = { version = "4.3.0", default-features = false }
